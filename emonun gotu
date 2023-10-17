@@ -1,0 +1,44 @@
+<html>
+<head>
+<title> selam </title>
+</head>
+<body>
+<ol>
+<li> İç Donanım Birimleri 
+<ol type="a">
+<li>Anakart</li>
+<li>Ram
+<ol type="I">
+<li>Statik</li>
+<li>Dinamik</li>
+</ol>
+<li>Sabit Disk
+<ol type="I">
+<li>SSD</li>
+<li>HDD</li>
+</ol>
+</li>
+</li>
+</ol>
+</li>
+<li>Dış Donanım Birimleri
+<ol type="a">
+<li>Klavye
+<ol>
+<li>Kablolu</li>
+<li>Kablosuz
+<ol type="I">
+<li>Bluetooth</li>
+<li>Wireless</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Fare</li>
+</ol>
+</li>
+</ol>
+</li>	
+</ol>
+</body>
+</html>
